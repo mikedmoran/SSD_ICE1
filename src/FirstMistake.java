@@ -1,3 +1,4 @@
+//https://wiki.sei.cmu.edu/confluence/display/java/MET09-J.+Classes+that+define+an+equals%28%29+method+must+also+define+a+hashCode%28%29+method
 
 public class FirstMistake {
 
