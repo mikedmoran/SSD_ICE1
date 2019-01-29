@@ -41,5 +41,9 @@ public class FirstMistake {
 		      }
 		      return false;
 		}
+		public int hashCode(){
+		    int result = 23;
+		    result = 13 * result + h * w % 3;
+		    return result;
 	}
 }
