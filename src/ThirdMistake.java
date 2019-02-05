@@ -13,8 +13,9 @@ public class ThirdMistake {
 			ans = numerator / denominator;
 		} catch (Exception e) {
 			System.out.println("No zero in denominator.");
-		} finally {
 			return 0;
+		} finally {
+			
 		}
 		
 		return ans;
